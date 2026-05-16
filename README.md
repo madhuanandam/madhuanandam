@@ -4,10 +4,7 @@
   Welcome to Madhu Anandam's Github!
 </h2>
 
-<!-- Anime GIF by marlenezw - https://github.com/marlenezw/marlenezw/blob/main/animee.gif -->
-<p align="center">
-  <a href="https://github.com/marlenezw/marlenezw/blob/main/animee.gif"><img src="https://github.com/marlenezw/marlenezw/blob/main/animee.gif"></a>
-</p>
+
 
 <!-- Social icons section -->
 <p align="center">
