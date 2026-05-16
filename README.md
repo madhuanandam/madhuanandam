@@ -101,14 +101,3 @@
     </p align="left">
 </p align="center">
 
-<h2 align="center">
- 📺 YouTube videos
-</h2>
-
-<h3 align="center">
-  <img src="https://media.giphy.com/media/SEhNCww9vGLAc/giphy.gif" width="28">
-  <a href="https://www.youtube.com/channel/@marlenezw?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCl3aV8OUXRroWvvAiU66DOw?color=a020f0&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=8f00ff"/></a> 
- <img src="https://media.giphy.com/media/SEhNCww9vGLAc/giphy.gif" width="28">
-  
- </h3>
